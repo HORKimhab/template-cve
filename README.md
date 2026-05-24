@@ -1,80 +1,99 @@
-# ⚠️ Security Research & Legal Disclaimer
+# 📚 Educational Security Research Repository
 
-## 📌 Purpose of This Repository
-
-This repository is provided strictly for **educational, academic, and authorized cybersecurity research purposes only**.
-
-It is intended to support understanding of:
-
-- Security vulnerabilities and exploitation concepts in controlled environments  
-- Sandbox isolation mechanisms and their limitations  
-- Secure software design and defensive security practices  
+A repository for learning, testing, and researching cybersecurity concepts in controlled environments.
 
 ---
 
-## 🚫 Authorized Use Only
+## ⚡ Simple Usage
 
-This repository must only be used in environments where explicit permission has been granted, such as:
+Use this project only in safe and authorized environments such as:
 
-- Personal or controlled virtual machines  
-- Docker or isolated lab environments  
-- Authorized penetration testing engagements  
-- Academic or cybersecurity training setups  
+- Local virtual machines
+- Docker containers
+- Isolated lab setups
+- Authorized penetration testing environments
 
-Any use outside of authorized environments is strictly prohibited.
+Example setup:
 
----
+```bash
+git clone <repository-url>
+cd <repository-name>
+```
 
-## ⚖️ No Responsibility / No Liability
+Example usage:
 
-> The author and contributors of this repository **are not responsible, liable, or accountable** for any misuse, damage, loss, or legal consequences arising from the use, misuse, or distribution of this project or its contents.
+```bash
+# Install dependencies
+<install-command>
 
-By using this repository, you acknowledge that:
+# Run the project
+<run-command>
+```
 
-- You are solely responsible for your actions  
-- You assume full legal responsibility for any use or misuse  
-- The author provides no warranty or guarantee of any kind, expressed or implied  
-- Any illegal, unethical, or unauthorized use is strictly at your own risk  
-
----
-
-## 🚨 Illegal Use Disclaimer
-
-> The author explicitly **disclaims any responsibility for illegal, malicious, or unauthorized use** of this repository or its contents.
-
-Any such use is:
-
-- Not endorsed  
-- Not supported  
-- Not encouraged  
-- Entirely outside the scope of this project  
+Replace the commands above with your actual project setup steps.
 
 ---
 
-## 🛡️ Ethical Use Statement
+---
+## Credit or Reference
 
-This project is intended solely for:
-
-- Defensive security research  
-- Vulnerability education and awareness  
-- Secure coding and system hardening research  
-- Academic and professional cybersecurity learning  
-
-It follows the principles of responsible disclosure and ethical security research.
+- url1
+- 
 
 ---
 
-## 📌 Final Reminder
+## ⚠️ Security & Legal Disclaimer
 
-Security research must always be conducted with:
+## Purpose
 
-- ✔ Proper legal authorization  
-- ✔ Ethical intent  
-- ✔ Isolated and controlled environments  
-- ✔ Compliance with applicable laws and policies  
+This repository is for **educational and authorized security research only**.
+
+It is designed to help users learn about:
+
+- Security vulnerabilities
+- Sandbox and isolation concepts
+- Secure coding and defensive practices
 
 ---
 
-## 📧 Contact
+## Authorized Use Only
 
-For responsible disclosure or research collaboration, please contact the repository maintainer via GitHub.
+Use this repository only in environments where you have permission, such as:
+
+- Personal labs or virtual machines
+- Docker or isolated environments
+- Authorized penetration testing
+- Cybersecurity training or academic research
+
+Unauthorized or illegal use is strictly prohibited.
+
+---
+
+## No Liability
+
+The author and contributors are **not responsible** for any damage, misuse, legal issues, or losses caused by this project.
+
+By using this repository, you agree that:
+
+- You are responsible for your own actions
+- You will use it legally and ethically
+- The project is provided **without warranty**
+
+---
+
+## Ethical Use
+
+This project is intended for:
+
+- Defensive security research
+- Cybersecurity education
+- Vulnerability awareness
+- Secure system and software research
+
+Please follow responsible disclosure practices and comply with all applicable laws.
+
+---
+
+## Contact
+
+For responsible disclosure or collaboration, contact the repository maintainer through GitHub.
