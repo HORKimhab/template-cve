@@ -1,4 +1,5 @@
-# <cve-id>
+# cve-id
+
 
 ## ⚡ Simple Usage
 
