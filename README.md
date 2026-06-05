@@ -15,6 +15,21 @@ Example setup:
 ```bash
 git clone <repository-url>
 cd <repository-name>
+
+# Project use python follow below
+
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+
+# macOS / Linux
+source venv/bin/activate
+
+# Windows (Git Bash / WSL)
+source venv/Scripts/activate
+
+
 ```
 
 Example usage:
