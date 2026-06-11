@@ -44,7 +44,6 @@ Example usage:
 
 Replace the commands above with your actual project setup steps.
 
----
 
 ---
 ## Credit or Reference
