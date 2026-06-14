@@ -29,6 +29,8 @@ source venv/bin/activate
 # Windows (Git Bash / WSL)
 source venv/Scripts/activate
 
+# Install requirments
+pip install -r requirements.txt
 
 ```
 
@@ -49,7 +51,6 @@ Replace the commands above with your actual project setup steps.
 ## Credit or Reference
 
 - url1
-- 
 
 ---
 
