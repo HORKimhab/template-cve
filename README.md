@@ -42,10 +42,13 @@ Example usage:
 
 # Run the project
 <run-command>
+
+# Replace the commands above with your actual project setup steps.
 ```
 
-Replace the commands above with your actual project setup steps.
+Note: 
 
+- clone from other project you must run `curl -fsSL https://gist.githubusercontent.com/HORKimhab/24c89ee9a86a42aac88381334f8bfe48/raw | bash -s -- -y` to clear nested dir .git
 
 ---
 ## Credit or Reference
