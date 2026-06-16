@@ -49,6 +49,7 @@ Example usage:
 Note: 
 
 - clone from other project you must run `curl -fsSL https://gist.githubusercontent.com/HORKimhab/24c89ee9a86a42aac88381334f8bfe48/raw | bash -s -- -y` to clear nested dir .git
+- e.g: cve-2025-46822.sh, cve-2025-46822-lab.sh, ...
 
 ---
 ## Credit or Reference
